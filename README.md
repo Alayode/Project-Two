@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Blog project for M101JS
 
 ./app.js - entry point
@@ -11,3 +12,7 @@ Getting started
 
 npm install
 node app.js
+=======
+# Project-Two
+using mongoDB to create a blog project
+>>>>>>> 215b7c77412f438709c57d0988d1aca314066861
